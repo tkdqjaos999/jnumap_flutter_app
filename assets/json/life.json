@@ -1,0 +1,184 @@
+[
+  {
+    "name": "산학협력 1호관",
+    "latitude": "35.179963",
+    "longitude": "126.910536",
+    "cname": "产学合作 1号馆",
+    "group": "LIFE"
+  },
+  {
+    "name": "산학협력 2호관",
+    "latitude": "35.181362",
+    "longitude": "126.907655",
+    "cname": "产学合作 2号馆",
+    "group": "LIFE"
+  },
+  {
+    "name": "산학협력 3호관",
+    "latitude": "35.180954",
+    "longitude": "126.907258",
+    "cname": "产学合作 3号馆",
+    "group": "LIFE"
+  },
+  {
+    "name": "제1학생회관",
+    "latitude": "35.176857",
+    "longitude": "126.907690",
+    "cname": "第一学生会馆",
+    "group": "LIFE"
+  },
+  {
+    "name": "제2학생회관",
+    "latitude": "35.174799",
+    "longitude": "126.902741",
+    "cname": "第二学生会馆",
+    "group": "LIFE"
+  },
+  {
+    "name": "용지",
+    "latitude": "35.174657",
+    "longitude": "126.909948",
+    "cname": "龍池",
+    "group": "LIFE"
+  },
+  {
+    "name": "봉지",
+    "latitude": "35.177092",
+    "longitude": "126.906679",
+    "cname": "鳳池",
+    "group": "LIFE"
+  },
+  {
+    "name": "대강당",
+    "latitude": "35.176047",
+    "longitude": "126.907440",
+    "cname": "大礼堂",
+    "group": "LIFE"
+  },
+  {
+    "name": "생활관 3호관",
+    "latitude": "35.181131",
+    "longitude": "126.910640",
+    "cname": "生活馆 3号馆",
+    "group": "LIFE"
+  },
+  {
+    "name": "생활관 4호관",
+    "latitude": "35.181425",
+    "longitude": "126.910475",
+    "cname": "生活馆 4号馆",
+    "group": "LIFE"
+  },
+  {
+    "name": "생활관 5호관",
+    "latitude": "35.180463",
+    "longitude": "126.911134",
+    "cname": "生活馆 5号馆",
+    "group": "LIFE"
+  },
+  {
+    "name": "생활관 6호관",
+    "latitude": "35.180134",
+    "longitude": "126.911246",
+    "cname": "生活馆 6号馆",
+    "group": "LIFE"
+  },
+  {
+    "name": "생활관 7호관",
+    "latitude": "35.176394",
+    "longitude": "126.899311",
+    "cname": "生活馆 7号馆",
+    "group": "LIFE"
+  },
+  {
+    "name": "생활관 8호관",
+    "latitude": "35.176363",
+    "longitude": "126.899852",
+    "cname": "生活馆 8号馆",
+    "group": "LIFE"
+  },
+  {
+    "name": "생활관 9호관 A동",
+    "latitude": "35.180982",
+    "longitude": "126.904897",
+    "cname": "生活馆 9号馆 A栋",
+    "group": "LIFE"
+  },
+  {
+    "name": "생활관 9호관 B동",
+    "latitude": "35.180552",
+    "longitude": "126.905012",
+    "cname": "生活馆 9号馆 B栋",
+    "group": "LIFE"
+  },
+  {
+    "name": "생활관 9호관 C동",
+    "latitude": "35.180754",
+    "longitude": "126.905986",
+    "cname": "生活馆 9号馆 C栋",
+    "group": "LIFE"
+  },
+  {
+    "name": "생활관 9호관 D동",
+    "latitude": "35.181184",
+    "longitude": "126.905924",
+    "cname": "生活馆 9号馆 D栋",
+    "group": "LIFE"
+  },
+  {
+    "name": "생활관 관리동",
+    "latitude": "35.180822",
+    "longitude": "126.910928",
+    "cname": "生活馆管理楼",
+    "group": "LIFE"
+  },
+  {
+    "name": "전남대후문위",
+    "latitude": "35.178610",
+    "longitude": "126.912009",
+    "cname": "后门",
+    "group": "LIFE"
+  },
+  {
+    "name": "전남대 후문",
+    "latitude": "35.175802",
+    "longitude": "126.912350",
+    "cname": "后门",
+    "group": "LIFE"
+  },
+  {
+    "name": "전남대 정문",
+    "latitude": "35.172771",
+    "longitude": "126.905068",
+    "cname": "正门",
+    "group": "LIFE"
+  },
+  {
+    "name": "종합운동장",
+    "latitude": "35.174088",
+    "longitude": "126.906560",
+    "cname": "综合运动场",
+    "group": "LIFE"
+  },
+  {
+    "name": "중앙도서관",
+    "latitude": "35.176873",
+    "longitude": "126.905928",
+    "cname": "中央图书馆",
+    "group": "LIFE"
+  },
+  {
+    "name": "도서관별관",
+    "latitude": "35.177969",
+    "longitude": "126.906865",
+    "cname": "图书馆分馆",
+    "group": "LIFE"
+  },
+  {
+    "name": "전남대 체육관",
+    "latitude": "35.175131",
+    "longitude": "126.911943",
+    "cname": "全南大学体育馆",
+    "group": "LIFE"
+  }
+]

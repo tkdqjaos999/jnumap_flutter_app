@@ -1,0 +1,130 @@
+[
+  {
+    "name": "인문대학 1호관",
+    "latitude": "35.177394",
+    "longitude": "126.904686",
+    "cname": "人文学院 1号馆",
+    "group": "LSA",
+    "path": "assets/human.jpg"
+  },
+  {
+    "name": "인문대학 2호관",
+    "latitude": "35.177885",
+    "longitude": "126.905135",
+    "cname": "人文学院 2号馆",
+    "group": "LSA",
+    "path": "assets/human.jpg"
+  },
+  {
+    "name": "인문대학 3호관",
+    "latitude": "35.176841",
+    "longitude": "126.904953",
+    "cname": "人文学院 3号馆",
+    "group": "LSA",
+    "path": "assets/human.jpg"
+  },
+  {
+    "name": "경영대학 1호관",
+    "latitude": "35.176584",
+    "longitude": "126.904174",
+    "cname": "经营学院 1号馆",
+    "group": "LSA",
+    "path": "assets/manage.jpg"
+  },
+  {
+    "name": "경영대학 2호관",
+    "latitude": "35.176515",
+    "longitude": "126.903688",
+    "cname": "经营学院 2号馆",
+    "group": "LSA",
+    "path": "assets/manage.jpg"
+  },
+  {
+    "name": "사범대학 1호관",
+    "latitude": "35.177771",
+    "longitude": "126.905822",
+    "cname": "师范大学 1号馆",
+    "group": "LSA",
+    "path": "assets/edu.jpg"
+  },
+  {
+    "name": "사범대학 2호관",
+    "latitude": "35.178709",
+    "longitude": "126.905801",
+    "cname": "师范大学 2号馆",
+    "group": "LSA",
+    "path": "assets/edu.jpg"
+  },
+  {
+    "name": "사범대학 3호관",
+    "latitude": "35.179665",
+    "longitude": "126.906423",
+    "cname": "师范大学 3号馆",
+    "group": "LSA",
+    "path": "assets/edu.jpg"
+  },
+  {
+    "name": "사범대학 4호관",
+    "latitude": "35.177827",
+    "longitude": "126.909548",
+    "cname": "师范大学 4号馆",
+    "group": "LSA",
+    "path": "assets/edu.jpg"
+  },
+  {
+    "name": "사범대학 5호관",
+    "latitude": "35.174652",
+    "longitude": "126.911733",
+    "cname": "师范大学 5号馆",
+    "group": "LSA",
+    "path": "assets/edu.jpg"
+  },
+  {
+    "name": "예술대학 1호관",
+    "latitude": "35.179492",
+    "longitude": "126.905521",
+    "cname": "艺术学院 1号馆",
+    "group": "LSA",
+    "path": "assets/art.jpg"
+  },
+  {
+    "name": "예술대학 2호관",
+    "latitude": "35.180365",
+    "longitude": "126.906238",
+    "cname": "艺术学院 2号馆",
+    "group": "LSA",
+    "path": "assets/art.jpg"
+  },
+  {
+    "name": "예술대학 3호관",
+    "latitude": "35.180098",
+    "longitude": "126.905337",
+    "cname": "艺术学院 3号馆",
+    "group": "LSA",
+    "path": "assets/art.jpg"
+  },
+  {
+  "name": "법학대학",
+  "latitude": "35.173945",
+  "longitude": "126.903722",
+  "cname": "法学院",
+  "group": "LSA",
+    "path": "assets/law.jpg"
+  },
+  {
+    "name": "사회과학대학",
+    "latitude": "35.174993",
+    "longitude": "126.904198",
+    "cname": "社会科学学院",
+    "group": "LSA",
+    "path": "assets/society.jpg"
+  },
+  {
+    "name": "사회과학대학 별관",
+    "latitude": "35.175107",
+    "longitude": "126.903704",
+    "cname": "社会科学学院 别馆",
+    "group": "LSA",
+    "path": "assets/society.jpg"
+  }
+]

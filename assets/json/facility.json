@@ -1,0 +1,44 @@
+{
+  "facility" : [
+    {
+      "name": "전남대학교 우체국",
+      "alititude": "35.176933",
+      "longitude": "126.907508",
+      "cname": "全南大学 邮局",
+      "building": "제1학생회관",
+      "location": "一楼"
+    },
+    {
+      "name": "북구청 우체국",
+      "alititude": "35.174528",
+      "longitude": "126.912329",
+      "cname": "北区厅 邮局",
+      "building": "북구청",
+      "location": ""
+    },
+    {
+      "name": "학생식당(2생)",
+      "alititude": "35.174705",
+      "longitude": "126.902692",
+      "cname": "学生食堂(二生)",
+      "building": "북구청",
+      "location": "一楼"
+    },
+    {
+      "name": "햇들마루",
+      "alititude": "35.180856",
+      "longitude": "126.910949",
+      "cname": "工大生活馆食堂",
+      "building": "생활관 관리동",
+      "location": "一楼"
+    },
+    {
+      "name": "9동 기숙사식당",
+      "alititude": "35.180856",
+      "longitude": "126.910949",
+      "cname": "工大生活馆食堂",
+      "building": "생활관 관리동",
+      "location": "一楼"
+    }
+]
+}

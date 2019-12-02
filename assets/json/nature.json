@@ -1,0 +1,168 @@
+[
+  {
+    "name": "농업생명과학대학 1호관",
+    "latitude": "35.175967",
+    "longitude": "126.900511",
+    "cname": "农业生命科学学院 1号馆",
+    "group": "MS",
+    "path": "assets/agri.jpg"
+  },
+  {
+    "name": "농업생명과학대학 2호관",
+    "latitude": "35.176524",
+    "longitude": "126.901552",
+    "cname": "农业生命科学学院 2号馆",
+    "group": "MS",
+    "path": "assets/agri.jpg"
+  },
+  {
+    "name": "농업생명과학대학 3호관",
+    "latitude": "35.176362",
+    "longitude": "126.902766",
+    "cname": "农业生命科学学院 3号馆",
+    "group": "MS",
+    "path": "assets/agri.jpg"
+  },
+  {
+    "name": "농업생명과학대학 4호관",
+    "latitude": "35.175998",
+    "longitude": "126.901295",
+    "cname": "农业生命科学学院 4号馆",
+    "group": "MS",
+    "path": "assets/agri.jpg"
+  },
+  {
+    "name": "농업생명과학대학 5호관",
+    "latitude": "35.174645",
+    "longitude": "126.900602",
+    "cname": "农业生命科学学院 5号馆",
+    "group": "MS",
+    "path": "assets/agri.jpg"
+  },{
+  "name": "수의과학대학 1호관",
+  "latitude": "35.174509",
+  "longitude": "126.901252",
+  "cname": "兽医科学大学 1号馆",
+  "group": "MS",
+  "path": "assets/vet.jpg"
+},
+  {
+    "name": "수의과학대학 2호관",
+    "latitude": "35.173869",
+    "longitude": "126.900691",
+    "cname": "兽医科学大学 2号馆",
+    "group": "MS",
+    "path": "assets/vet.jpg"
+  },{
+  "name": "생활과학대학",
+  "latitude": "35.173858",
+  "longitude": "126.911250",
+  "cname": "生活科学大学",
+  "group": "MS",
+  "path": "assets/life.jpg"
+},
+  {
+    "name": "약학대학 1호관",
+    "latitude": "35.176848",
+    "longitude": "126.911413",
+    "cname": "药学院 1号馆",
+    "group": "MS",
+    "path": "assets/medi.jpg"
+  },
+  {
+    "name": "약학대학 2호관",
+    "latitude": "35.176423",
+    "longitude": "126.911590",
+    "cname": "药学院 2号馆",
+    "group": "MS",
+    "path": "assets/medi.jpg"
+  },
+  {
+    "name": "자연과학대학 1호관",
+    "latitude": "35.177282",
+    "longitude": "126.909573",
+    "cname": "自然科学大学 1号馆",
+    "group": "MS",
+    "path": "assets/science.jpg"
+  },
+  {
+    "name": "자연과학대학 2호관",
+    "latitude": "35.176852",
+    "longitude": "126.909997",
+    "cname": "自然科学大学 2号馆",
+    "group": "MS",
+    "path": "assets/science.jpg"
+  },
+  {
+    "name": "자연과학대학 3호관",
+    "latitude": "35.176492",
+    "longitude": "126.910458",
+    "cname": "自然科学大学 3号馆",
+    "group": "MS",
+    "path": "assets/science.jpg"
+  },
+  {
+    "name": "자연과학대학 4호관",
+    "latitude": "35.176189",
+    "longitude": "126.909568",
+    "cname": "自然科学大学 4号馆",
+    "group": "MS",
+    "path": "assets/science.jpg"
+  },
+  {
+    "name": "공과대학 1호관",
+    "latitude": "35.179606",
+    "longitude": "126.910224",
+    "cname": "工科大学 1号馆",
+    "group": "MS",
+    "path": "assets/engine.jpg"
+  },
+  {
+    "name": "공과대학 2호관",
+    "latitude": "35.179163",
+    "longitude": "126.908947",
+    "cname": "工科大学 2号馆",
+    "group": "MS",
+    "path": "assets/engine.jpg"
+  },
+  {
+    "name": "공과대학 3호관",
+    "latitude": "35.178983",
+    "longitude": "126.910578",
+    "cname": "工科大学 3号馆",
+    "group": "MS",
+    "path": "assets/engine.jpg"
+  },
+  {
+    "name": "공과대학 4호관",
+    "latitude": "35.178602",
+    "longitude": "126.908947",
+    "cname": "工科大学 4号馆",
+    "group": "MS",
+    "path": "assets/engine.jpg"
+  },
+  {
+    "name": "공과대학 5호관",
+    "latitude": "35.177865",
+    "longitude": "126.911087",
+    "cname": "工科大学 5号馆",
+    "group": "MS",
+    "path": "assets/engine.jpg"
+  },
+  {
+    "name": "공과대학 6호관",
+    "latitude": "35.179720",
+    "longitude": "126.908602",
+    "cname": "工科大学 6号馆",
+    "group": "MS",
+    "path": "assets/engine.jpg"
+  },
+  {
+    "name": "공과대학 7호관",
+    "latitude": "35.178328",
+    "longitude": "126.909372",
+    "cname": "工科大学 7号馆",
+    "group": "MS",
+    "path": "assets/engine.jpg"
+  }
+]
